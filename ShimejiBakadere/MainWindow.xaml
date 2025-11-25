@@ -1,0 +1,78 @@
+﻿<Window x:Class="ShimejiBakadere.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Width="260" Height="260"
+        WindowStyle="None"
+        AllowsTransparency="True"
+        Background="Transparent"
+        Topmost="True"
+        ResizeMode="NoResize"
+        ShowInTaskbar="False">
+
+    <Grid Margin="0">
+        <Grid.RowDefinitions>
+            <!-- Fila para el globito -->
+            <RowDefinition Height="Auto"/>
+            <!-- Fila para el sprite -->
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Globito de diálogo, siempre arriba -->
+        <Border x:Name="SpeechBubble"
+                Grid.Row="0"
+                Background="#F291DC"
+                BorderBrush="#F291DC"
+                BorderThickness="1"
+                CornerRadius="10"
+                Padding="4"
+                HorizontalAlignment="Center"
+                VerticalAlignment="Top"
+                Margin="0,4,0,0"
+                Opacity="0">
+            <TextBlock x:Name="SpeechText"
+                       Foreground="Purple"
+                       FontSize="11"
+                       TextWrapping="Wrap"
+                       MaxWidth="200"/>
+        </Border>
+
+        <!-- Sprite, más grande y en la fila de abajo -->
+        <Image x:Name="ShimejiImage"
+       Grid.Row="1"
+       Width="220"
+       HorizontalAlignment="Center"
+       VerticalAlignment="Bottom"
+       RenderOptions.BitmapScalingMode="HighQuality"
+       SnapsToDevicePixels="True"
+       UseLayoutRounding="True"
+       Stretch="Uniform">
+
+            <Image.ContextMenu>
+                <ContextMenu>
+                    <MenuItem Header="Cerrar" Click="MenuCerrar_Click" />
+
+                    <!-- Separador -->
+                    <Separator />
+
+                    <MenuItem Header="By WolfOfDoom"
+                  IsEnabled="False"
+                  Foreground="#CC888888"
+                  FontStyle="Italic"
+                  BorderThickness="0"
+                  Background="Transparent" />
+                    <!-- si quieres más opciones, las agregas aquí:
+            <MenuItem Header="Pausar" Click="MenuPausar_Click" />
+            <MenuItem Header="Reanudar" Click="MenuReanudar_Click" />
+            -->
+                </ContextMenu>
+            </Image.ContextMenu>
+
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform x:Name="FlipTransform" ScaleX="1" ScaleY="1"/>
+                    <RotateTransform x:Name="RotateTransform" Angle="0"/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
+    </Grid>
+</Window>
