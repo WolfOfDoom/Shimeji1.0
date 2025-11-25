@@ -1,7 +1,7 @@
 Shimeji
 
 Manual Oficial de Uso
-Versión 1.0
+Versión 1.0  
 ━━━━━━━━━━━━━━━━━━━━━━━━━━
 
         ／￣￣￣￣￣￣￣￣￣￣￣￣￣￣＼
@@ -41,11 +41,11 @@ Su Shimeji incluye funciones tales como:
 
 3. Lista de Animaciones (Sprites)
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━  
 
-   ┌─────────────────────────┐
-   │    Tabla de Sprites     │
-   └─────────────────────────┘
+   ┌─────────────────────────┐  
+   │    Tabla de Sprites     │  
+   └─────────────────────────┘  
 
 
 Estado Archivo
