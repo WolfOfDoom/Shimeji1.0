@@ -1,4 +1,4 @@
-##Shimeji
+## Shimeji
 
 Manual Oficial de Uso
 Versión 1.0  
