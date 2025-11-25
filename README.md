@@ -48,33 +48,33 @@ Su Shimeji incluye funciones tales como:
    └─────────────────────────┘  
 
 
-Estado Archivo
-────────────────────────────────
-Idle idle.png
-Walk walk.png
-Sit sit.png
-Blush blush.png
-Fall cae.png
-Climb izquierda climbl.png
-Climb derecha climbr.png
-Techo derecha climbcr.png
-Techo izquierda climbcl.png
-Happy happy.png / happy2.png
-────────────────────────────────
+Estado Archivo  
+────────────────────────────────  
+Idle idle.png  
+Walk walk.png  
+Sit sit.png  
+Blush blush.png  
+Fall cae.png  
+Climb izquierda climbl.png  
+Climb derecha climbr.png  
+Techo derecha climbcr.png  
+Techo izquierda climbcl.png  
+Happy happy.png / happy2.png  
+────────────────────────────────  
 
-Cada sprite se voltea mágicamente según la dirección.
-Tecnología moderna. Sorprendente. Impresionante.
+Cada sprite se voltea mágicamente según la dirección.  
+Tecnología moderna. Sorprendente. Impresionante.  
 
-4. Cómo funciona
+4. Cómo funciona  
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━  
 
-Cuando la aplicación inicia:
+Cuando la aplicación inicia:  
 
-• Shimeji se despierta.
-• Mira alrededor como si se hubiera perdido otra vez.
-• Dice cosas que niega haber dicho después.
-• Camina por el escritorio y actúa como si fuera su territorio.
+• Shimeji se despierta.  
+• Mira alrededor como si se hubiera perdido otra vez.  
+• Dice cosas que niega haber dicho después.  
+• Camina por el escritorio y actúa como si fuera su territorio.  
 
 Lógica simplificada:
 
@@ -99,19 +99,19 @@ Lógica simplificada:
 
 5. Control por el Usuario
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━  
 
-Sujetarla:
-Hágalo con suavidad. Se sonroja.
-Soltarla:
-Cae. A veces chilla. No confirmado.
+Sujetarla:  
+Hágalo con suavidad. Se sonroja.  
+Soltarla:  
+Cae. A veces chilla. No confirmado.  
 
-Parámetros internos incluyen:
+Parámetros internos incluyen:  
 
-• Gravedad real
-• Velocidad programada
-• Torpeza natural
-• Resistencia emocional media
+• Gravedad real  
+• Velocidad programada  
+• Torpeza natural  
+• Resistencia emocional media  
 
 6. Compatibilidad de Pantalla
 
