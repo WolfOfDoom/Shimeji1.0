@@ -182,6 +182,6 @@ Cuídela, no la deje caer del escritorio, y por favor no la ignore por más de 1
    （つ◜⌣◝）つ  ← shimeji feliz  
 
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━
-Fin del manual oficial
+━━━━━━━━━━━━━━━━━━━━━━━━━━  
+Fin del manual oficial  
 ━━━━━━━━━━━━━━━━━━━━━━━━━━
