@@ -127,9 +127,9 @@ Shimeji detecta en qué pantalla se encuentra y se comporta correctamente mientr
 
 Clic derecho sobre la shimeji:
 
-[ Cerrar ]
-Cerrar la aplicación.
-Úsese con moderación. La shimeji llora si la cierran más de 3 veces al día.
+[ Cerrar ]  
+Cerrar la aplicación.  
+Úsese con moderación. La shimeji llora si la cierran más de 3 veces al día.  
 
 8. Instrucciones de Instalación
 
@@ -152,31 +152,31 @@ Obtenga su .exe y compártalo bajo su propio riesgo.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-P: Mi shimeji se cayó del techo. ¿Es normal?
-R: Sí.
+P: Mi shimeji se cayó del techo. ¿Es normal?  
+R: Sí.  
 
-P: Mi shimeji se queda viendo mi cursor. ¿Por qué?
-R: No hacemos preguntas aquí.
+P: Mi shimeji se queda viendo mi cursor. ¿Por qué?  
+R: No hacemos preguntas aquí.  
 
-P: Mi shimeji habla frases demasiado tiernas.
-R: Fue programada así. Usted la aceptó.
+P: Mi shimeji habla frases demasiado tiernas.  
+R: Fue programada así. Usted la aceptó.  
 
-P: La quiero mucho.
-R: Eso no es una pregunta, pero está bien.
+P: La quiero mucho.  
+R: Eso no es una pregunta, pero está bien.  
 
 10. Créditos
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Desarrollo, sprites y estilo visual:
-WolfOfDoom
+Desarrollo, sprites y estilo visual:  
+WolfOfDoom  
 
 11. Mensaje final del fabricante
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Gracias por usar Shimeji.
-Cuídela, no la deje caer del escritorio, y por favor no la ignore por más de 18 segundos o empezará a decir frases incomodas.
+Gracias por usar Shimeji.  
+Cuídela, no la deje caer del escritorio, y por favor no la ignore por más de 18 segundos o empezará a decir frases incomodas.  
 
    （￣へ￣）  ← shimeji seria  
    （つ◜⌣◝）つ  ← shimeji feliz  
