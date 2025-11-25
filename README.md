@@ -27,14 +27,14 @@ Por favor no doblarlo, no mojarlo y no dejar al shimeji cerca de café caliente.
 
 Su Shimeji incluye funciones tales como:
 
-• Movimiento con gravedad (caída no accidental... usualmente).
-• Caminata lateral nivel NPC.
-• Escalada vertical digna de un anime de 6 frames por episodio.
-• Caminata en el techo con riesgo del 0.2% de auto-destrucción parcial.
-• Mecanismo de sonrojo si el usuario la toca sin permiso.
-• Sistema avanzado de diálogos bakadere.
-• Alta compatibilidad con pantallas múltiples.
-• Capacidad de sentarse cuando la vida es difícil.
+• Movimiento con gravedad (caída no accidental... usualmente).  
+• Caminata lateral nivel NPC.  
+• Escalada vertical digna de un anime de 6 frames por episodio.  
+• Caminata en el techo con riesgo del 0.2% de auto-destrucción parcial.  
+• Mecanismo de sonrojo si el usuario la toca sin permiso.  
+• Sistema avanzado de diálogos bakadere.  
+• Alta compatibilidad con pantallas múltiples.  
+• Capacidad de sentarse cuando la vida es difícil.  
 
  ※ Advertencia del fabricante:
  “Si su Shimeji se cae del techo, es culpa de la gravedad, no del producto.”
